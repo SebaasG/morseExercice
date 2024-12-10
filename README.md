@@ -1,0 +1,1 @@
+Se desarrolla funciones para convertir de morse a texto y de texto a morse, en este aplicativo se crean tres funciones, donde una muestra la interfaz de usuario y las otras hacen el respectivo traspaso
